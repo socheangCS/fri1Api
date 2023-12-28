@@ -801,7 +801,7 @@ var products = [
   },
 ];
 
-var products = JSON.stringify(products);
+// var products = JSON.stringify(myproducts);
 
 app.use(cors());
 
